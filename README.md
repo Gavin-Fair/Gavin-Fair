@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Gavin-Fair
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me fairgavin0@gmail.com
-
-<!---
-Gavin-Fair/Gavin-Fair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Ceo [FMG-Robotics Foundation](https://www.fmg-robotics.com/)
+-Undergraduate at Rutgers Uninversity-New Brunswick Studying B.S in Data science
+-knowledgeable in Python(Pandas, Matplotlib, && Numpy), Java, HTML & CSS
+[LinkedIn]([url](https://www.linkedin.com/in/gavin-fair-7a1677228/)https://www.linkedin.com/in/gavin-fair-7a1677228/)

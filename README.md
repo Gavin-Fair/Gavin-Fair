@@ -1,7 +1,7 @@
--CEO of [FMG-Robotics Foundation](https://www.fmg-robotics.com/)
+-CEO of [FMG-Robotics Foundation](https://www.fmg-robotics.com/).
 
--Undergraduate at Rutgers Uninversity-New Brunswick studying Data Science
+-Undergraduate at Rutgers Uninversity-New Brunswick studying Data Science.
 
--Knowledgeable in Python(Pandas, Matplotlib, & Numpy), Java, HTML & CSS
+-Knowledgeable in Python(Pandas, Matplotlib, & Numpy), Java, HTML & CSS.
 
--My [LinkedIn](https://www.linkedin.com/in/gavin-fair-7a1677228/)
+-Connect with me on [LinkedIn](https://www.linkedin.com/in/gavin-fair-7a1677228/)!

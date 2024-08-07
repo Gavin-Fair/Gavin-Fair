@@ -1,6 +1,6 @@
 -CEO of [FMG-Robotics Foundation](https://www.fmg-robotics.com/)
 
--Undergraduate at Rutgers Uninversity-New Brunswick studying Data Science
+-CS Undergraduate at Rutgers Uninversity-New Brunswick
 
 -Knowledgeable in Python, Java, C#, C
 
